@@ -1,0 +1,25 @@
+.home-icon1{
+	background-image: url('../img/home.png');
+	background-size: 4428px 216px;
+    background-color: transparent;
+    height: 108px;
+    display: inline-block;
+    vertical-align: bottom;
+    width: 108px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.home-icon1:hover{
+	background-image: url('../img/home.png');
+	background-size: 4428px 216px;
+    background-color: transparent;
+    height: 108px;
+    display: inline-block;
+    vertical-align: bottom;
+    width: 108px;
+    background-position-y:-108px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

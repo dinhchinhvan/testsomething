@@ -1,0 +1,308 @@
+.task-icon {
+    background-image: url(../img/icon/task_icon.png);
+    background-size: 80px 40px;
+    background-color: transparent;
+    height: 20px;
+    display: inline-block;
+    vertical-align: bottom;
+    width: 20px;
+}
+.task-icon.second-row {
+	background-position-y: 20px;
+}
+.bug-icon,
+.request-icon
+{
+   background-position-x: 0px;
+}
+.info-icon,
+.task-icon {
+     background-position-x: 20px;
+}
+.question-icon,
+.warning-icon  {
+     background-position-x: 60px;
+}
+.expanse-icon,
+.collapse-icon {
+     background-position-x: 80px;
+}
+
+.home-icon {
+    background-image: url(../img/icon/home_icon.png);
+    background-size: 400px 450px;
+    background-color: transparent;
+    height: 50px;
+    display: inline-block;
+    vertical-align: bottom;
+    width: 50px;
+}
+
+.home-icon.second-row {
+   background-position-y: -50px;
+}
+.home-icon.third-row {
+   background-position-y: -100px;
+}
+.home-icon.four-row {
+   background-position-y: -150px;
+}
+.home-icon.five-row {
+   background-position-y: -200px;
+}
+.home-icon.six-row {
+   background-position-y: -250px;
+}
+.home-icon.seven-row {
+   background-position-y: -300px;
+}
+.home-icon.eight-row {
+   background-position-y: -350px;
+}
+.home-icon.nine-row {
+   background-position-y: -400px;
+}
+
+.summary-icon, 
+.cost-icon, 
+.meeting-icon, 
+.leaving-icon, 
+.ot-icon,
+.scrum-icon,
+.previous-icon,
+.gito-large-blue-icon
+{
+   background-position-x: 0px;
+}
+
+.previous-icon:hover
+{
+   background-position-x: 0px;
+   background-position-y: -350px;
+}
+.next-icon:hover
+{
+   background-position-y: -350px;
+}
+
+.task-icon, 
+.performent-icon,
+.report-icon,
+.survey-icon,
+.bonus-icon,
+.gito-large-white-icon,
+.next-icon
+{
+    background-position-x: -50px;
+}
+
+.gantt-icon,
+.post-icon,
+.estate-icon,
+.kpi-icon,
+.role-and-permission-icon,
+.arrow-down-icon
+{
+     background-position-x: -100px;
+}
+
+.document-home-icon,
+.chat-icon,
+.case-study-icon,
+.contact-list-icon,
+.device-manage-icon,
+.google-play-white-icon,
+.google-play-gray-icon,
+.gito-white-icon
+{
+    background-position-x: -150px;
+}
+
+.code-icon,
+.logtime-icon,
+.recruiment-icon,
+.accounting-icon,
+.level-and-department-icon,
+.apply-store-white-icon,
+.apply-store-gray-icon
+{
+    background-position-x: -200px;
+}
+.release-icon,
+.setting-icon,
+.announcement-icon,
+.contract-icon,
+.profit-icon,
+.back-to-top-icon,
+.tweeter-white-icon,
+.tweeter-gray-icon
+{
+    background-position-x: -250px;
+}
+.tweeter-white-icon:hover,.facebook-white-icon:hover,.in-white-icon:hover{
+  background-position-y:-350px;
+}
+.test-case-icon,
+.calendar-icon,
+.request-and-resolution-icon,
+.salary-icon,
+.email-home-icon,
+.back-to-top-icon:hover,
+.facebook-white-icon,
+.facebook-gray-icon
+{
+    background-position-x: -300px;
+}
+.change-log-icon,
+.todo-icon,
+.checkin-icon,
+.prepayment-icon,
+.ip-access-control-icon,
+.quote-icon,
+.in-white-icon,
+.in-gray-icon
+{
+    background-position-x: -350px;
+}
+
+.email-icon {
+    background-image: url(../img/icon/email_icon.png);
+    background-size: 272px 170px;
+    background-color: transparent;
+    height: 20px;
+    display: inline-block;
+    vertical-align: bottom;
+    width: 20px;
+}
+/* col 1*/
+.app-email-icon,
+.move-to-folder-icon,
+.pick-time-icon,
+.attach-icon {
+	background-position-x: 0px;
+}
+
+.restore-icon:hover {
+	background-position-x: 0px;
+	background-position-y: 20px !important;
+}
+.move-to-folder-icon:hover {
+	background-position-x: 0px;
+	background-position-y: 60px !important;
+}
+/* col 2*/
+.user-email-icon,
+.expand-email-icon,
+.restore-icon {
+	background-position-x: 20px;
+}
+.expand-email-icon:hover {
+	background-position-x: 20px;
+	background-position-y: 100px !important;
+}
+/* col 3*/
+.refresh-email-icon,
+.mark-all-as-read,
+.collapse-email-icon
+{
+	background-position-x: 40px;
+}
+.collapse-email-icon:hover {
+	background-position-y: 100px !important;
+	background-position-x: 60px;
+}
+.move-to-inbox:hover {
+	background-position-y: 20px !important;
+	background-position-x: 60px;
+}
+/* col 1*/
+.refresh-email-icon:hover {
+	background-position-y: 0px !important;
+	background-position-x: 80px;
+}
+
+.move-to-inbox-icon,
+.block-email-icon {
+	background-position-x: 80px;
+}
+.block-email-icon:hover {
+	background-position-y: 100px !important; 
+}
+.mark-all-as-read:hover {
+	background-position: 80px 60px !important;
+}
+/******/
+
+.delete-email-icon,
+.back-email-icon,
+.edit-email-icon {
+	background-position-x: 80px;
+}
+
+.back-email-icon:hover {
+	background-position: 80px 40px !important;
+}
+.edit-email-icon:hover {
+	background-position: 80px 100px !important;
+}
+.delete-email-icon:hover {
+	background-position: 100px 0px !important;
+}
+.next-email-icon:hover {
+	background-position: 100px 40px !important; 
+}
+.popup-email-icon:hover {
+	background-position: 100px 80px !important; 
+}
+/*****/
+
+.next-email-icon, 
+.popup-email-icon {
+	background-position-x: 100px; 
+}
+/***/
+.more-email-icon, 
+.setting-email-icon,
+.save-email-icon {
+	background-position-x: 120px; 
+}
+.more-email-icon:hover {
+	background-position: 140px 0px !important;
+} 
+.setting-email-icon:hover {
+	background-position: 140px 20px !important;
+}
+.save-email-icon{
+	background-position: 140px 40px !important;
+}
+
+.email-icon.second-row {
+   background-position-y: 20px;
+}
+.email-icon.third-row {
+   background-position-y: 40px;
+}
+.email-icon.four-row {
+   background-position-y: 60px;
+}
+.email-icon.five-row {
+   background-position-y: 80px;
+}
+
+
+.document-icon {
+    background-image: url(../img/icon/document_icon.png);
+    background-size: 280px 120px;
+    background-color: transparent;
+    height: 20px;
+    display: inline-block;
+    vertical-align: bottom;
+    width: 20px;
+}
+/* col 1*/
+.folder-icon,
+.security-icon,
+.audio-icon,
+.text-icon {
+	background-position-x: 0px;
+}
